@@ -1,0 +1,19 @@
+.centrado {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centrado-sin-margin {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.no-gifs{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
